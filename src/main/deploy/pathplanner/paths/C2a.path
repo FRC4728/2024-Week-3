@@ -1,0 +1,95 @@
+{
+  "version": 1.0,
+  "waypoints": [
+    {
+      "anchor": {
+        "x": 0.8222231983311089,
+        "y": 4.392693697668098
+      },
+      "prevControl": null,
+      "nextControl": {
+        "x": 2.5710708063020142,
+        "y": 1.4299401029879755
+      },
+      "isLocked": false,
+      "linkedName": null
+    },
+    {
+      "anchor": {
+        "x": 4.963194002217389,
+        "y": 0.9143055252935139
+      },
+      "prevControl": {
+        "x": 4.315661392771293,
+        "y": 0.9483861889485733
+      },
+      "nextControl": {
+        "x": 5.158653440755314,
+        "y": 0.9040181864230961
+      },
+      "isLocked": false,
+      "linkedName": null
+    },
+    {
+      "anchor": {
+        "x": 8.999755629843014,
+        "y": 2.7915498485025405
+      },
+      "prevControl": {
+        "x": 8.217917875691315,
+        "y": 1.0838515960133042
+      },
+      "nextControl": {
+        "x": 9.057209885719079,
+        "y": 2.9170420389686824
+      },
+      "isLocked": false,
+      "linkedName": null
+    },
+    {
+      "anchor": {
+        "x": 1.1795253922261395,
+        "y": 3.8031219190400463
+      },
+      "prevControl": {
+        "x": 4.773632243853353,
+        "y": -2.261933393080883
+      },
+      "nextControl": null,
+      "isLocked": false,
+      "linkedName": null
+    }
+  ],
+  "rotationTargets": [
+    {
+      "waypointRelativePos": 1,
+      "rotationDegrees": 9.950626687951598,
+      "rotateFast": false
+    },
+    {
+      "waypointRelativePos": 2,
+      "rotationDegrees": 18.434948822922063,
+      "rotateFast": false
+    }
+  ],
+  "constraintZones": [],
+  "eventMarkers": [],
+  "globalConstraints": {
+    "maxVelocity": 3.0,
+    "maxAcceleration": 2.5,
+    "maxAngularVelocity": 540.0,
+    "maxAngularAcceleration": 720.0
+  },
+  "goalEndState": {
+    "velocity": 0,
+    "rotation": -56.725112015165074,
+    "rotateFast": true
+  },
+  "reversed": false,
+  "folder": null,
+  "previewStartingState": {
+    "rotation": -59.264512298079964,
+    "velocity": 0
+  },
+  "useDefaultConstraints": false
+}
